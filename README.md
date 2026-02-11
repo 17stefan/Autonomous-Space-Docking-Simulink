@@ -1,5 +1,5 @@
 # Autonomous-Space-Docking-Simulink
-Autonomous Space Docking &amp; Planetary Landing simulation in MATLAB/Simulink. Features Interstellar-inspired black hole gravity, S-R Flip-Flop docking logic, and predictive trajectory navigation using Simscape Multibody.
+An autonomous MATLAB/Simulink simulation of a spacecraft performing a high-stakes docking maneuver and planetary landing. Built using Simscape Multibody, the project features custom gravitational physics, logic-based docking triggers, and predictive trajectory guidance.
 
 Part 1: Environment & Gravitational Dynamics
 This section details the setup of the gravitational singularity, the planetary dynamics, and the physical properties of the bodies involved.
