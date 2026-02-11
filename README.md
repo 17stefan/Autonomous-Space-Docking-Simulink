@@ -57,3 +57,5 @@ To ensure a successful intercept, I implemented a prediction algorithm:
      Surface Detection: Monitors the distance magnitude relative to the planet's 30-meter radius.
      Stop Condition: A logic gate triggers once distance $\leq 30$ meters.
      Mission Success: Triggers a Stop Simulation block to freeze the engine at the moment of touchdown.
+
+    ![Simulation Demo](simulink-autonomous-docking.gif)
